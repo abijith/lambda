@@ -1,10 +1,10 @@
-const express = require('express');
-const app = express();
+// const express = require('express');
+// const app = express();
 
-console.log("Hello");
+// console.log("Hello");
 
-// module.exports = app;
+// // module.exports = app;
 
-exports.handler = function(event, context, callback) {
-	callback(null, "Hello World");
-}
+// exports.handler = function(event, context, callback) {
+// 	callback(null, "Hello World");
+// }
